@@ -11,9 +11,9 @@ namespace PMSummary.Interfaces
         [OperationContract]
         [WebInvoke(Method = "GET",
              ResponseFormat = WebMessageFormat.Json,
-             BodyStyle = WebMessageBodyStyle.Wrapped,
+             BodyStyle = WebMessageBodyStyle.Bare,
              UriTemplate = "summary")]
-        [return: MessageParameter(Name = "Data")]
+        [return: MessageParameter(Name = "data")]
         string MainProcess();
     }
 
