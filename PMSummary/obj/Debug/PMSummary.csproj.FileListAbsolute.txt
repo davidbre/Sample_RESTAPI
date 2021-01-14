@@ -1,0 +1,9 @@
+C:\Webs\Indeed\PrologMobile\PMSummary\PMSummary\bin\Debug\PMSummary.exe.config
+C:\Webs\Indeed\PrologMobile\PMSummary\PMSummary\bin\Debug\PMSummary.exe
+C:\Webs\Indeed\PrologMobile\PMSummary\PMSummary\bin\Debug\PMSummary.pdb
+C:\Webs\Indeed\PrologMobile\PMSummary\PMSummary\bin\Debug\Newtonsoft.Json.dll
+C:\Webs\Indeed\PrologMobile\PMSummary\PMSummary\bin\Debug\Newtonsoft.Json.xml
+C:\Webs\Indeed\PrologMobile\PMSummary\PMSummary\obj\Debug\PMSummary.csproj.CoreCompileInputs.cache
+C:\Webs\Indeed\PrologMobile\PMSummary\PMSummary\obj\Debug\PMSummary.exe
+C:\Webs\Indeed\PrologMobile\PMSummary\PMSummary\obj\Debug\PMSummary.pdb
+C:\Webs\Indeed\PrologMobile\PMSummary\PMSummary\obj\Debug\PMSummary.csprojResolveAssemblyReference.cache
