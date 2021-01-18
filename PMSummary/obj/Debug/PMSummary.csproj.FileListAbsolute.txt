@@ -6,3 +6,11 @@ C:\Webs\Indeed\PrologMobile\PMSummary\PMSummary\bin\Debug\Newtonsoft.Json.xml
 C:\Webs\Indeed\PrologMobile\PMSummary\PMSummary\obj\Debug\PMSummary.csproj.CoreCompileInputs.cache
 C:\Webs\Indeed\PrologMobile\PMSummary\PMSummary\obj\Debug\PMSummary.exe
 C:\Webs\Indeed\PrologMobile\PMSummary\PMSummary\obj\Debug\PMSummary.pdb
+C:\Webs\sample\Sample\PMSummary\bin\Debug\PMSummary.exe.config
+C:\Webs\sample\Sample\PMSummary\bin\Debug\PMSummary.exe
+C:\Webs\sample\Sample\PMSummary\bin\Debug\PMSummary.pdb
+C:\Webs\sample\Sample\PMSummary\bin\Debug\Newtonsoft.Json.dll
+C:\Webs\sample\Sample\PMSummary\bin\Debug\Newtonsoft.Json.xml
+C:\Webs\sample\Sample\PMSummary\obj\Debug\PMSummary.csproj.CoreCompileInputs.cache
+C:\Webs\sample\Sample\PMSummary\obj\Debug\PMSummary.exe
+C:\Webs\sample\Sample\PMSummary\obj\Debug\PMSummary.pdb

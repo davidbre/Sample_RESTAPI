@@ -1,4 +1,9 @@
-﻿
+﻿//*==========================================================================
+//* Sample Code - REST API
+//* Copyright (c) 2020 All Rights Reserved
+//* Author : David Brennan
+//* Email: davidbre@gmail.com
+//*==========================================================================
 using Newtonsoft.Json;
 
 namespace PMSummary.Models

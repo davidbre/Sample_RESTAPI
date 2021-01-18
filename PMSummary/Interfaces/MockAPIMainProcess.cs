@@ -1,12 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
+﻿//*==========================================================================
+//* Sample Code
+//* Copyright (c) 2020 All Rights Reserved
+//* Author : David Brennan
+//* Email: davidbre@gmail.com
+//*==========================================================================
+
+
+using System;
 using System.Linq;
 
 using Newtonsoft.Json;
 
 namespace PMSummary.Interfaces
 {
-    public class MockAPISummarySvc : IMockAPISummary
+    public class MockAPIMainProcess : IMockAPISummary
     {
         //==================================================================
         // MainProcess()

@@ -1,9 +1,13 @@
-﻿
+﻿//*==========================================================================
+//* Sample Code
+//* Copyright (c) 2020 All Rights Reserved
+//* Author : David Brennan
+//* Email: davidbre@gmail.com
+//*==========================================================================
+
 using System.Collections.Generic;
 using System.IO;
 using System.Net;
-using System.Threading;
-
 
 namespace PMSummary.Library
 {

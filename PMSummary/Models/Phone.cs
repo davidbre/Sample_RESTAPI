@@ -1,4 +1,10 @@
-﻿
+﻿//*==========================================================================
+//* Sample Code
+//* Copyright (c) 2020 All Rights Reserved
+//* Author : David Brennan
+//* Email: davidbre@gmail.com
+//*==========================================================================
+
 namespace PMSummary.Models
 {
     class Phone
